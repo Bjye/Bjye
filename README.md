@@ -1,4 +1,4 @@
-### Hi there its Bjye 👋 Heads-up! will soon make it A++
+### Hi there its Sura 👋 Heads-up! will soon make it A++
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Bjye&show_icons=true&theme=tokyonight"/>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjye&layout=compact"/>
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E " />
